@@ -1,2 +1,0 @@
-//js content
-alert('hello');
